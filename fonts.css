@@ -1,0 +1,17 @@
+@font-face {
+  src: local('Raleway-Regular'), local('raleway-regular'), local('raleway'),
+    local('ralewayregular'), url('./fonts/Raleway-Regular.woff') format('woff'),
+    url('./fonts/Raleway-Regular.woff2') format('woff2');
+  font-family: 'Raleway';
+  font-weight: 400;
+  font-display: swap;
+}
+@font-face {
+  src: local('Raleway-ExtraBold'), local('raleway-extrabold'),
+    local('ralewayextrabold'),
+    url('./fonts/Raleway-ExtraBold.woff') format('woff'),
+    url('./fonts/Raleway-ExtraBold.woff2') format('woff2');
+  font-family: 'Raleway';
+  font-weight: 800;
+  font-display: swap;
+}
